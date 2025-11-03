@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controls\DocGiaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\UCDocGiaPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmCaiDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmDocGiaActor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmGioiThieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmKhoSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmKhoSachSua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmKhoSachThem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmLichSuNhapXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMainDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMuonTraAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMuonTraDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMuonTraPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmMuonTraUpdate .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmNgayCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmNgayCongNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FrmNhanvienAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmPhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmProfileNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmSachDangMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmSachSapHet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmThongKeHomNay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmThongKeTongHop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTimKiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTKKhoSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTKNgayCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTongDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTongHop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTongHopNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTongSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTongTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frmTThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\frnKhoSachHienThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\NhanvienAdminAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\NhanvienAdminEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\SachForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\SachPopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TheLoaiSachForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TheLoaiSachPopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
